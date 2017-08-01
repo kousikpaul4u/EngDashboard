@@ -1,0 +1,9 @@
+[submodule "EngDashboard-core"]
+	path = EngDashboard-core
+	url = https://github.com/kousikpaul4u/EngDashboard-core.git
+[submodule "EngDashboard-mobile-app"]
+	path = EngDashboard-mobile-app
+	url = https://github.com/kousikpaul4u/EngDashboard-mobile-app.git
+[submodule "EngDashboard-web"]
+	path = EngDashboard-web
+	url = https://github.com/kousikpaul4u/EngDashboard-web.git
